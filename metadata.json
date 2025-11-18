@@ -1,0 +1,5 @@
+{
+  "name": "Firebase DB Manager",
+  "description": "An application to manage a Firebase database for production parts and inventory. It includes tabs for production management, inventory tracking, and a custom formula engine to establish relationships between data points.",
+  "requestFramePermissions": []
+}
